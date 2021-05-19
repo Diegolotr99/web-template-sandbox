@@ -15,8 +15,10 @@ const Header = () => {
                         <Col>
                             <div className="top-header">
                                 <div className="logo">
-                                    <a className="navbar-brand" href="#"><img src="assets/images/landing/logo.png"
-                                        alt="logo" /></a>
+                                    <a className="navbar-brand" href="#">
+                                        {/* <img src="assets/images/landing/logo.png" alt="logo" /> */}
+                                        <h2>Wavo</h2>
+                                    </a>
                                 </div>
                                 <div className="main-menu m-x-auto" id="nav">
                                     <nav id="navbar-example2" className="navbar navbar-expand-lg navbar-light">
@@ -39,16 +41,16 @@ const Header = () => {
                                                     <a className="nav-link" href="#feature">features</a>
                                                 </li>
                                                 <li className="nav-item">
-                                                    <a className="nav-link" href="https://pixelstrap.freshdesk.com">support</a>
+                                                    <a className="nav-link" href="#home">support</a>
                                                 </li>
                                             </ul>
                                         </div>
                                     </nav>
                                 </div>
-                                <div className="purchase-block">
+                               {/*  <div className="purchase-block">
                                     <span className="cartpurchase"><i className="fa fa-cart-arrow-down"></i></span>
                                     <a className="purchase-btn" href="https://themeforest.net/user/pixelstrap/portfolio">purchase</a>
-                                </div>
+                                </div> */}
                             </div>
                         </Col>
                     </Row>

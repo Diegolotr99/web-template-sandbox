@@ -32,7 +32,7 @@ const Download = () => {
                                     </div>
                                     <div className="center-img-content m-l-15">
                                         <h3 className="m-b-5">download</h3>
-                                        <p>the Unice</p>
+                                        <p>the Wavo</p>
                                     </div>
                                 </div>
                                 <div className="information">

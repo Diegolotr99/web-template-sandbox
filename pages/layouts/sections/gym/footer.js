@@ -11,9 +11,10 @@ const Footer = () => (
                                 <h3 className="text-white">About Us</h3>
                             </div>
                             <div className="footer-contant">
-                                <img alt="" className="img-fluid footer-logo" src="/assets/images/logo/1.png" />
-                                <div className="footer-para">
-                                    <h6 className="text-white para-address">Unice</h6>
+                                {/*<img alt="" className="img-fluid footer-logo" src="/assets/images/logo/1.png" />*/}
+                                <h2 className="text-white">Wavo</h2>
+                                <div className="footer-para m-t-30">
+                                    <h6 className="text-white para-address">Wavo</h6>
                                     <h6 className="text-white para-address">324 Madison Street New york City, </h6>
                                     <h6 className="text-white para-address">NY 10001.</h6>
                                 </div>
@@ -159,8 +160,8 @@ const Footer = () => (
                     </Col>
                     <Col sm="6">
                         <div>
-                            <h6 className="copyright-text text-white text-right op-text">Copyright © 2020 Unice by <i
-                                    aria-hidden="true" className="fa fa-heart"></i> pixelstrap</h6>
+                            <h6 className="copyright-text text-white text-right op-text">Copyright © 2021 Wavo by <i
+                                    aria-hidden="true" className="fa fa-heart"></i> ninetheme</h6>
                         </div>
                     </Col>
                 </Row>

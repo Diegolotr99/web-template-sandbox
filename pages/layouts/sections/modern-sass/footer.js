@@ -10,9 +10,10 @@ const Footer = () => (
                             <h3 className="text-white">About Us</h3>
                         </div>
                         <div className="footer-contant">
-                            <img alt="" className="img-fluid footer-logo" src="/assets/images/logo/3.png" />
-                            <div className="footer-para">
-                                <h6 className="text-white para-address">Sassy</h6>
+                            {/*<img alt="" className="img-fluid footer-logo" src="/assets/images/logo/3.png" />*/}
+                            <h2 className="text-white">Wavo</h2>
+                            <div className="footer-para m-t-30">
+                                <h6 className="text-white para-address">Wavo</h6>
                                 <h6 className="text-white para-address">324 Madison Street New york </h6>
                                 <h6 className="text-white para-address">City,NY 10001.</h6>
                             </div>

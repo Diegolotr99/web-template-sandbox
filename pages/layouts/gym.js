@@ -23,11 +23,11 @@ const Gym = () => {
       document.body.style.setProperty('--light', '#000')
       document.body.style.setProperty('--dark', '#000')
     })
-  
+
     return (
         <div>
             <Head>
-                <title>Gym Layout </title>
+                <title>Sherpa Mindset</title>
             </Head>
 
             <Header  className="gym nav-lg"/>

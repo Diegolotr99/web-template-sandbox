@@ -7,7 +7,8 @@ const Footer = () => (
                 <Row>
                     <Col xs="12">
                         <div className="link link-horizontal  text-center mb-3">
-                            <img alt="" className="img-fluid" src="/assets/images/logo/5.png" />
+                            {/*<img alt="" className="img-fluid" src="/assets/images/logo/5.png" />*/}
+                            <h2>Wavo</h2>
                         </div>
                     </Col>
                     <Col xs="12">
@@ -66,7 +67,7 @@ const Footer = () => (
                     </Col>
                     <Col sm="6">
                         <div>
-                            <h6 className="copyright-text text-white text-right">Copyright © 2020 Unice by <i aria-hidden="true" className="fa fa-heart"></i> pixelstrap
+                            <h6 className="copyright-text text-white text-right">Copyright © 2021 Wavo by <i aria-hidden="true" className="fa fa-heart"></i> ninetheme
                             </h6>
                         </div>
                     </Col>

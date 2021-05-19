@@ -10,11 +10,11 @@ const GitSection = () => (
                         <div>
                             <div className="home-container">
                                 <div className="home-logo-container">
-                                    <img src="assets/images/landing/home/main-icon.png" alt="" className="img-fluid logo" />
+                                    <img src="assets/images/sherpa/sherpa-logo.png" alt="" className="img-fluid logo" />
                                 </div>
-                                <h1>One stop for all one page landings...</h1>
-                                <p>
-                                    Unice is Perfect landing HTML template for any business. it has all
+                                <h1 className="text-white">One stop for all one page landings...</h1>
+                                <p className="text-white">
+                                    Wavo is Perfect landing HTML template for any business. it has all
                                     features and modules to create your amazing landing page. you can use
                                     this template for selling Agency, app landding, coffee, event, gym, music, digital, pizza,
                                     resume, sass, wedding, yoga etc.
@@ -46,7 +46,7 @@ const GitSection = () => (
                 <img src="assets/images/landing/home/12.png" className="main-gif img-fluid" alt="" />
             </div>
         </section>
-       
+
 
     </>
     // {/* <!--gif section end--> */}

@@ -18,9 +18,9 @@ const Copyright = () => (
                 </Col>
                 <Col sm="6">
                     <div>
-                        <h6 className="copyright-text text-white text-right op-text">Copyright © 2020 Unice by <i
+                        <h6 className="copyright-text text-white text-right op-text">Copyright © 2021 Wavo by <i
                             aria-hidden="true" className="fa fa-heart mx-1"></i>
-                            pixelstrap</h6>
+                            ninetheme</h6>
                     </div>
                 </Col>
             </Row>

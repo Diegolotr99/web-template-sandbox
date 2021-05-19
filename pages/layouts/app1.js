@@ -24,7 +24,7 @@ const App1 = () => {
   return (
     <div>
       <Head>
-        <title>Unice</title>
+        <title>Sherpa Mindset</title>
       </Head>
 
       <Header className="app1" />

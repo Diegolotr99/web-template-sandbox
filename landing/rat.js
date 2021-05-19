@@ -15,7 +15,7 @@ const Rat = () => (
                             </div>
                             <h1>Have Any Problem ?</h1>
                             <p>No Worries-Support Services is Always To Support You</p>
-                            <a href="#" className="btn-gradient ">purchase now</a>
+                            <a href="#" className="btn-gradient ">support now</a>
                             <ul className="ratin-start">
                                 <li><i className="fa fa-star"></i></li>
                                 <li><i className="fa fa-star"></i></li>

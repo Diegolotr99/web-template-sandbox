@@ -6,7 +6,8 @@ const Footer = () => (
             <Row>
                 <Col xs="12">
                     <div className="link link-horizontal  text-center mb-3">
-                        <img alt="" className="img-fluid" src="/assets/images/logo/5.png" />
+                        {/*<img alt="" className="img-fluid" src="/assets/images/logo/5.png" />*/}
+                        <h2>Wavo</h2>
                 </div>
                     </Col>
                     <Col xs="12">
@@ -41,5 +42,5 @@ const Footer = () => (
             </Container>
 </footer>
         )
-        
+
 export default Footer;

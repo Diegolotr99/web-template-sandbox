@@ -29,7 +29,7 @@ const Wedding = () => {
     return (
         <div>
             <Head>
-                <title>Wedding Layout </title>
+                <title>Sherpa Mindset</title>
             </Head>
 
             <CenterLogoHeader themeClass="wedding" />

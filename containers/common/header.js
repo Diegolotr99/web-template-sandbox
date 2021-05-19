@@ -20,7 +20,8 @@ const Header = props => {
                     <Col>
                         <nav>
                             <a className="m-r-auto" href="/">
-                                {props.className == 'agency' ?
+                                <h2>Wavo</h2>
+                               {/* {props.className == 'agency' ?
                                     <img alt="" className="img-fluid" src="/assets/images/logo/9.png" />
                                     :
                                     props.className == 'dark' ?
@@ -39,7 +40,7 @@ const Header = props => {
                                                         <img alt="" className="img-fluid" src="/assets/images/logo/3.png" />
 
                                                         : <img alt="" className="img-fluid" src="/assets/images/logo/1.png" />
-                                }
+                                }*/}
                             </a>
                             <div className="responsive-btn">
                                 <a className="toggle-nav" onClick={clickSidebar} >

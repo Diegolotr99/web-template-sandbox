@@ -55,7 +55,7 @@ const Copyright = () => (
                 </Col>
                 <Col md="5" sm="12">
                     <div className="m-l-auto center-para">
-                        <p className="copyright-text text-white text-right op-text">© 2020 Unice powered by Pixelstrap</p>
+                        <p className="copyright-text text-white text-right op-text">© 2021 Wavo powered by Ninetheme</p>
                     </div>
                 </Col>
             </Row>

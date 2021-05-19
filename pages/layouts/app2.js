@@ -27,7 +27,7 @@ const App2 = () => {
   return (
       <div className="theme-color" >
         <Head>
-          <title>App Layout</title>
+           <title>Sherpa Mindset</title>
         </Head>
 
         <Header />
@@ -40,14 +40,14 @@ const App2 = () => {
 
         <FormatSection />
 
-        <TeamSection /> 
+        <TeamSection />
 
         <ScreenshotSection />
 
         <MemberSection />
 
         <PricingSection />
-      
+
         <ClientSection />
 
         <FooterSection />
@@ -59,7 +59,7 @@ const App2 = () => {
             <div><i className="fa fa-angle-double-up"></i></div>
         </div>
         {/* Tap on Ends */}
-        
+
       </div>
   )
 }

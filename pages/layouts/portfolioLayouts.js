@@ -20,7 +20,7 @@ const PortfolioLayout = () => {
     return (
         <div className="agency">
             <Head>
-                <title>Portfolio Layout </title>
+                <title>Sherpa Mindset</title>
             </Head>
 
             <Header className="dark" />

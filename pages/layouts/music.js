@@ -29,7 +29,7 @@ const Music = () => {
     return (
         <div>
             <Head>
-                <title>Music Layout </title>
+                <title>Sherpa Mindset</title>
             </Head>
 
 
@@ -56,7 +56,7 @@ const Music = () => {
             <SubscribeSection />
 
             <TestimonialSection />
-            
+
             <FooterSection />
 
             <CopyrightSection />

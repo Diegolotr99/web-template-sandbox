@@ -89,7 +89,7 @@ const Footer = () => (
                         </div>
                     </Col>
                     <Col md="6">
-                        <p className="copyright-text text-right text-white">© 2020 Unice. All Rights Reserved </p>
+                        <p className="copyright-text text-right text-white">© 2021 Wavo. All Rights Reserved </p>
                     </Col>
                 </Row>
             </Container>

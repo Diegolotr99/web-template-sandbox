@@ -21,10 +21,12 @@ const CenterLogoHeader = (props) => {
                                 <a className="center-header d-none d-lg-block">
                                     {props.themeClass === "wedding" ?
                                         <>
-                                            <img alt="logo" className="logo-abs h-auto" src="../assets/images/logo/7.png" />
+                                            {/*<img alt="logo" className="logo-abs h-auto" src="../assets/images/logo/7.png" />*/}
+                                            <h2 className="logo-abs h-auto m-t-20">Wavo</h2>
                                         </>
                                         :
-                                        <img alt="logo" className="logo-abs h-auto" src="../assets/images/logo/1.png" />
+                                        /*<img alt="logo" className="logo-abs h-auto" src="../assets/images/logo/1.png" />*/
+                                        <h2 className="logo-abs h-auto m-t-5 text-white">Wavo</h2>
                                     }
                                 </a>
                             </Link>

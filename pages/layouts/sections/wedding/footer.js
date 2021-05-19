@@ -58,7 +58,7 @@ const Footer = () => (
                 </Col>
                 <Col xl="3" sm="12" className="p-0">
                     <div className="m-l-auto center-para">
-                        <h6 className="copyright-text text-right">© 2020 Unice powered by Pixelstrap</h6>
+                        <h6 className="copyright-text text-right">© 2021 Wavo powered by Ninetheme</h6>
                     </div>
                 </Col>
             </Row>

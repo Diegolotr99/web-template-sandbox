@@ -25,7 +25,7 @@ const EnterpriceSass = () => {
     return (
         <div>
             <Head>
-                <title>Enterprise Sass Layout </title>
+                <title>Sherpa Mindset</title>
             </Head>
 
             <Header className="saas2"/>

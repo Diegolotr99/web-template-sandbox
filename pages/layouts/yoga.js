@@ -29,7 +29,7 @@ const Yoga = () => {
     return (
         <div>
             <Head>
-                <title>Yoga Layout </title>
+                <title>Sherpa Mindset</title>
             </Head>
 
             <Header themeClass="yoga" />

@@ -27,7 +27,7 @@ const ModernSass = () => {
     return (
         <div>
             <Head>
-                <title>Modern Sass Layout </title>
+                <title>Sherpa Mindset</title>
             </Head>
 
             <Header className="saas1"  />

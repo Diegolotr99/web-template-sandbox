@@ -29,7 +29,7 @@ const Event = () => {
     return (
         <div>
             <Head>
-                <title>Events Layout </title>
+                <title>Sherpa Mindset</title>
             </Head>
 
             <Header className="event nav-lg" />

@@ -6,7 +6,7 @@ const Demo = () => (
         <Container fluid={true}>
             <div className="position-relative o-hidden">
                 <div className="title">
-                    <h2>+13 Pre Define </h2>
+                    <h2>Pre Define </h2>
                     <h6>demolayouts</h6>
                     <hr className="bottom-border" />
                 </div>

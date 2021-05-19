@@ -25,7 +25,7 @@ const Resume = () => {
     return (
         <div>
             <Head>
-                <title>Resume Layout </title>
+                <title>Sherpa Mindset</title>
             </Head>
 
             <Header className="dark" />

@@ -20,10 +20,10 @@ $font-3: Roboto;
 $white: #ffffff;
 $black: #000000;
 $black1: #49494c;
-$primary: #8648db;
+$primary: #222D39;
 $shadow-color: rgba(134, 72, 219, 0.2);
-$light: #ba38d2;
-$dark: #6851df;
+$light: #9647DB;
+$dark: #52419A;
 $header-link: #888888;
 $light-white: #f6f4ff;
 $featur-back: #fbfafe;
@@ -121,8 +121,8 @@ html {
     margin-bottom: 50px;
     h2 {
       text-transform: capitalize;
-      background: -webkit-gradient(linear, left right, left right, from($light), to($dark));
-      background: linear-gradient(to right, $dark 25%, $light 65%);
+      background: -webkit-gradient(linear, left right, left right, from($primary), to($dark));
+      background: linear-gradient(to right, $primary 25%, $dark 65%);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
       letter-spacing: 1px;
@@ -413,17 +413,18 @@ html {
     }
   }
   .home-section {
-    background: url("/assets/images/landing/home/1.png");
+   // background: url("/assets/images/landing/home/1.png");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
     overflow: hidden;
     position: relative;
-    background-color: $featur-back;
+    background-color: $primary;
     height: calc(100vh - 93px);
     .home-container {
       text-align: center;
+      background-color: $primary;
       .home-logo-container {
         margin-bottom: 30px;
         .logo {
@@ -854,14 +855,14 @@ html {
   .advance-feature {
     background-color: $featur-back;
     position: relative;
-    overflow: hidden;  
+    overflow: hidden;
 
     .features-container {
       margin-bottom: -20px;
       .d-flex {
         .col-12 {
           margin-bottom: -19px;
-        }      
+        }
     }
   }
     .core-back {
@@ -1268,7 +1269,7 @@ html {
     Footer css start
   *************************/
   .footer-main {
-    padding: 20px 0;
+    padding: 10px 0;
     .footer-right {
       p {
         margin-top: 0;
@@ -1423,7 +1424,7 @@ html {
   }
 
   @media (width: 1440px) and (height: 900px) {
-    
+
     .home-section {
       .inner-slide3 {
         padding-top: 10px;

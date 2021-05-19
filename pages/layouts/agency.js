@@ -26,7 +26,7 @@ const Agency = () => {
   return (
     <div className="theme-color" >
         <Head>
-            <title>Agency </title>
+            <title>Sherpa Mindset</title>
             <meta name='Agency Layout' content='' />
         </Head>
 

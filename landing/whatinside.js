@@ -5,8 +5,8 @@ const WhatInSide = () => (
         <Container>
             <div className="position-relative o-hidden">
                 <div className="title">
-                    <h2>What's inside Unice </h2>
-                    <p>Unice is ready with tons of demos and elements which is perfect for your project</p>
+                    <h2>What's inside Wavo </h2>
+                    <p>Wavo is ready with tons of demos and elements which is perfect for your project</p>
                     <hr className="bottom-border" />
                 </div>
             </div>

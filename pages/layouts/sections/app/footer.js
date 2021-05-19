@@ -37,8 +37,9 @@ const Footer = () => (
                                 <h3 className="text-white">About Us</h3>
                             </div>
                             <div className="footer-contant">
-                                <img alt="" className="img-fluid footer-logo" src="/assets/images/logo/1.png" />
-                                <div className="footer-para">
+                                {/*<img alt="" className="img-fluid footer-logo" src="/assets/images/logo/1.png" />*/}
+                                <h2 className="text-white">Wavo</h2>
+                                <div className="footer-para m-t-30">
                                     <p className="text-white">Lorem ipsum dolor sit consectetur adipisicing elit, sed do
                                         eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim lorem
                                         sed do </p>
